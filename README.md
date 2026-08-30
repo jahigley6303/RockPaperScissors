@@ -15,7 +15,7 @@ Vertical flowchart diagram included (rps_flowchart.png)
 Simple, readable, fully commented Python code
 
 
-📁 Project Structure
+📁 Project Structures
 project_folder/
 │
 ├── rps_arcade.py          # Main game code (Tkinter GUI)
